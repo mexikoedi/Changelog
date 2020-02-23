@@ -5,14 +5,13 @@ TTT2 Changelog
 #Changelog 5.0 from 09.10.2019#
 
 removed:
-...
+
 added:
-...
+
 server settings:
-...
+
 information: big update and reopening of the server, many new features, improvements and more with ttt2. check it out. 
 (too much to write here)
-...
 
 #Changelog 5.1 from 10.10.2019#
 
