@@ -55,11 +55,11 @@ ttt_pelicantown
 ttt_rpgvillage
 ttt_abandonedsubway
 ttt_oldruins
-(tried to fix for hours, it doesn`t work, investigation on going...)
+(tried to fix for hours, it doesn't work, investigation on going...)
 map missing:
 ttt_cipher
 and 2 other maps
-(tried to fix for hours, it doesn`t work, investigation on going...)
+(tried to fix for hours, it doesn't work, investigation on going...)
 
 #Changelog 5.3 from 19.10.2019#
 
