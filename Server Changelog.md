@@ -1,4 +1,4 @@
-Eskalation Pur Server Changelog
+Eskalation Pur Server
 TTT2 Changelog
 -------------------------------
 
