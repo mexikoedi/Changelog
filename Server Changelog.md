@@ -509,5 +509,3 @@ ttt_lms_give_hp set to 1
 information:
 updated to new, better and more for ttt2 optimised version of weapon statistics
 updated map icons addon for reinhard city map thumbnail
-
-added: test
