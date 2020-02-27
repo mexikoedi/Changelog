@@ -1,0 +1,20 @@
+#Changelog 8.4 from 27.02.2020#
+
+removed:
+
+added:
+[ttt2] 3d pointer [feature]
+[ttt2] noexplosiodamage [item]
+[ttt2] nofiredamage [item]
+[ttt/2] glowing teammates
+[ttt/2] delayed damage guns
+[ttt] one punch man 
+ttt_proximitymine
+ttt_elevatorandstairs
+ttt_yucatan
+ttt_atlantis
+
+server settings:
+
+information:
+added an advert for the [ttt2] 3d pointer [feature]
