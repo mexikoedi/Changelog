@@ -1,0 +1,19 @@
+#Changelog 9.0 from 07.04.2020#
+
+removed:
+m9k pistols+
+m9k rifles+
+m9k shotguns+
+ttt_outset_ssland ⚔️ the legend of zelda windwaker hd map for ttt
+
+added:
+[ttt2] jackal [role]
+[ttt2] sidekick [role]
+ttt r-700
+
+server settings:
+ttt_jackal_pct set to 100
+ttt_jackal_random set to 100
+ttt_jackal_min_players set to 8
+
+information:
