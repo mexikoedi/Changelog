@@ -1,0 +1,19 @@
+#Changelog 9.2 from 09.04.2020#
+
+removed:
+
+added:
+
+server settings:
+set "sv_minrate 15000"
+set "r_decals 2048"
+set "mp_decals 200"
+set "ttt_ragdoll_collide 0"
+set "sv_maxupdaterate 67"
+set "sv_minupdaterate 66"
+added "gmod_mcore_test 1" (for testing purpose, maybe unstable)
+added "mat_queue_mode -1" (for testing purpose, maybe unstable)
+added "cl_threaded_bone_setup 1" (for testing purpose, maybe unstable)
+
+information:
+server performance improved
