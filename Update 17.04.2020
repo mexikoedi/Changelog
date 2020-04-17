@@ -1,0 +1,58 @@
+#Changelog 9.4 from 17.04.2020#
+
+removed:
+ttt_lttp_kakariko
+ttt_slender_v2
+ttt_craftroom - minecraft rats
+ttt_cipher
+ttt_dimmsdale V1 (outdated)
+ttt_mc_skyislands
+ttt_minecraft_snowden
+ttt_skyscraper
+ttt_waterworld
+ttt_community_bowling
+ttt_67thway_v14
+ttt_old_factory
+ttt_abandonedsubway
+terrortrain 2018
+ttt_rpgvillage
+ttt_hogwarts
+rp_hogwarts content
+ttt_apartment
+ttt_elevatorandstairs
+ttt russian roulette
+ttt kamehameha weapon
+ttt traitor turtlenade
+
+added:
+ttt_waterworld_remastered
+ttt_Devoz
+ttt_sandcrawler
+ttt_wrestling
+ttt_college
+ttt_submarine
+ttt vegas
+scp foundation [ttt]
+ttt_polaris
+ttt_castle_black_v5
+ttt mine turtle
+ttt2 explosive crosstol [traitor]
+[ttt/2] air-to-surface missile
+ttt headcrab launcher
+super discombobulator (ttt)
+[ttt/2] error flashbang
+ttt m1911
+k-volt (works only in ttt!)
+ttt vector
+ttt hunting bow
+ttt barrett m82
+ttt an94
+ttt weapon - thompson g2 contender by humility
+
+server settings:
+deleted cache to force the server to download everything again - cleaner
+start map changed to ttt_island_2013
+
+information:
+reordered collection a bit
+updated map icons addon for ttt_devoz_v4, ttt_foundation_v2 and ttt_submarine map thumbnails
