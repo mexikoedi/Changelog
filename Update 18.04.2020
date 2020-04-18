@@ -1,0 +1,11 @@
+#Changelog 9.5 from 18.04.2020#
+
+removed:
+
+added:
+ttt2 music box gun [detective]
+
+server settings:
+added pam_map_prefixes, pam_map_whitelist, pam_map_blacklist
+
+information:
