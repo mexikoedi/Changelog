@@ -1,0 +1,38 @@
+#Changelog 9.6 from 20.04.2020#
+
+removed:
+spc foundation [ttt]
+addon hooks lag finder
+addon hooks conflict finder
+error flashbang
+[ttt]fassinator (fixed and improved)
+ttt jarate
+ice knife (trouble in terrorist town)
+ttt loadout menu
+
+added:
+[ttt/2] error flashbang
+
+server settings:
+set "r_decals 2000"
+set "sv_minrate 10000"
+set "sv_maxrate 20000"
+set "mat_queue_mode 2"
+added "cl_threaded_client_leaf_system 1"
+added "r_threaded_client_shadow_manager 1"
+added "r_threaded_particles 1"
+added "r_threaded_renderables 1"
+added "r_queued_ropes 1"
+added "studio_queue_mode 1"
+added "r_queued_decals 1"
+added "r_queued_post_processing 1"
+added "r_fastzreject -1"
+added "snd_mix_async 1"
+added "snd_async_fullyasync 1"
+added "in_usekeyboardsampletime 0"
+
+information:
+removed two unecessary folders from the server
+removed loadout menu key from the welcome screen and added dance key to the welcome screen
+updated dance advert
+server performance should be increased...
