@@ -1,0 +1,27 @@
+#Changelog 9.7 from 21.04.2020#
+
+removed:
+
+added:
+
+server settings:
+set "sv_minrate 50000"
+set "sv_maxrate 100000"
+removed "r_queued_decals 1"
+removed "r_queued_post_processing 1"
+removed "r_fastzreject -1"
+removed "snd_mix_async 1"
+removed "snd_async_fullyasync 1"
+removed "in_usekeyboardsampletime 0"
+removed "r_queued_ropes 1"
+removed "cl_threaded_bone_setup 1"
+removed "cl_threaded_client_leaf_system 1"
+removed "r_threaded_client_shadow_manager 1"
+removed "r_threaded_particles 1"
+removed "r_threaded_renderables 1"
+removed "studio_queue_mode 1"
+removed "cl_playerspraydisable 0"
+removed "r_decal_cullsize 1"
+
+information:
+server performance should be increased...
