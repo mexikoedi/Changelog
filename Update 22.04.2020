@@ -1,0 +1,19 @@
+#Changelog 9.8 from 22.04.2020#
+
+removed:
+ttt_polaris
+
+added:
+tt_brooklyn
+ttt_skybreak
+ttt_btectest
+
+server settings:
+set "sv_minrate 0"
+set "sv_maxrate 15000"
+set "sv_region 255"
+set "pam_map_prefixes btec"
+
+information:
+server performance should be increased... 
+updated map icons addon for tt_brooklyn, ttt_skybreak and ttt_btectest map thumbnails
