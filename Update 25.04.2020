@@ -1,0 +1,12 @@
+#Changelog 9.9 from 25.04.2020#
+
+removed:
+k-volt (works only in ttt!)
+
+added:
+
+server settings:
+set "sv_minrate 0"
+
+information:
+server performance should be increased... 
