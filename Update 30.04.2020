@@ -1,0 +1,17 @@
+#Changelog 10.0 from 30.04.2020#
+
+removed:
+ttt mine turtle
+
+added:
+ttt pietsmiet castle
+[ttt2] mine turtle (proximity mine)
+[ttt] thomas the tank engine remake
+[ttt] traitor railgun level5
+
+server settings:
+added "sv_stats 0"
+added "fps_max 300"
+
+information:
+server performance should be increased... 
