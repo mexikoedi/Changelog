@@ -1,0 +1,19 @@
+#Changelog 10.2 from 03.05.2020#
+
+removed:
+[ttt] m4 slam (tripmine + remote c4)
+
+added:
+[ttt2] m4 slam (tripmine + remote C4)
+
+server settings:
+removed "fps_max 300"
+set "sv_minupdaterate 128"
+set "sv_maxupdaterate 129"
+set "sv_minrate 50000"
+set "sv_maxrate 100000"
+tickrate changed from 66 to 128
+
+information:
+server performance should be increased... 
+server password changed
