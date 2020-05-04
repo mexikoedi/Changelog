@@ -1,0 +1,34 @@
+#Changelog 10.3 from 04.05.2020#
+
+removed:
+ttt randomat
+[ttt] spartankick [weapon][fixed]
+[ttt] s3rls gun
+[ttt2] noexplosiondamage [item]
+[ttt2] nofiredamage [item]
+[ttt] mini thomas
+[ttt] gurkensohn gun
+explosive microwave
+ttt explosive awp
+[ttt/2] money launcher
+[ttt/2] baby launcher
+[ttt] detlef d soost dart
+omae wa mou shindeiru
+[ttt] bulk cannon for detectives and traitors
+ttt space and time-manipulator
+ttt_proximitymine
+ttt chicken
+ttt flashbang
+ttt hidden blade (fixed Icon)
+ttt raygun - based on call of duty zombies
+
+added:
+
+server settings:
+set "sv_minrate 0"
+set "sv_maxrate 0"
+added "sv_mincmdrate 128"
+added "sv_maxcmdrate 129"
+
+information:
+server performance should be increased... 
