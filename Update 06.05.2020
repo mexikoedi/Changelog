@@ -1,0 +1,14 @@
+#Changelog 10.4 from 06.05.2020#
+
+removed:
+[teamalgee][ttt2] exho's ttt prop disguiser fixed
+[ttt] detective shield gun (fixed global sound)
+
+added:
+
+server settings:
+removed "ttt_lms_give_tracker" "1"
+
+information:
+shield gun has caused laggs, performance should be increased after the removal...
+handcuffs are now in the loadout for the detective
