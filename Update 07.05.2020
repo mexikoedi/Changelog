@@ -1,0 +1,24 @@
+#Changelog 10.5 from 07.05.2020#
+
+removed:
+
+added:
+
+server settings:
+increased damage of dance gun, decreased ammo from 3 to 2
+limited the use of the following shop items:
+radar - .norandom
+[ttt2/ttt] manipulation knife - .norandom
+[ttt/2] a second chance - .limited, .teamlimited
+[ttt] thomas the tank engine remake - .limited, .teamlimited
+[ttt/2] homing pigeon - .limited, .teamlimited
+ttt2 explosive crosstol [traitor] - .limited, .teamlimited
+[ttt/2] air-to-surface missile - .limited
+[ttt2] mine turtle (proximity mine) - .limited, .teamlimited
+[ttt2] dancegun [item] - .limited, .teamlimited
+[ttt/2] orbital friendship beam - .limited, .teamlimited
+ttt handcuffs - .norandom, 1 credit
+
+information:
+gameplay balanced
+handcuffs are now removed from the loadout for the detective
