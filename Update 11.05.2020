@@ -1,0 +1,24 @@
+#Changelog 10.7 from 11.05.2020#
+
+removed:
+[ttt2] jackal [role]
+[ttt2] sidekick [role]
+
+added:
+[ttt2] nofiredamage [item]
+[ttt2] bodyguard [role]
+[ttt2] survivalist [role]
+[ttt2] spy [role]
+[ttt2] occultist [role]
+
+server settings:
+ttt handcuffs - .limited
+[ttt]one punch man - .teamlimited
+[ttt2] nofiredamage [item] - .notbuyable
+set "ttt_spec_prop_force" "150" 
+set "ttt_spec_prop_rechargetime" "0.50"
+
+information:
+punch o meter force increased and recharge time decreased
+new roles were added and set up for testing purposes
+gameplay balancing
