@@ -1,0 +1,11 @@
+#Changelog 10.8 from 14.05.2020#
+
+removed:
+ttt pietSmiet castle
+
+added:
+
+server settings:
+set "ttt_limit_spectator_voice" "1"
+
+information:
