@@ -1,0 +1,12 @@
+#Changelog 11.0 from 19.05.2020#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_milkgun_damage" "150"
+set "ttt_lastwords_chatprint" "1"
+set "ttt_limit_spectator_chat" "0"
+
+information:
