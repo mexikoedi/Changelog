@@ -1,0 +1,15 @@
+#Changelog 11.1 from 24.05.2020#
+
+removed:
+[ttt2] bodyguard [role]
+[ttt2] survivalist [role]
+[ttt2] occultist [role]
+[ttt2] nofiredamage [item]
+
+added:
+[ttt2] wrath [role]
+
+server settings:
+
+information:
+new role was added and set up for testing purposes
