@@ -1,0 +1,12 @@
+#Changelog 11.2 from 25.05.2020#
+
+removed:
+ttt_rooftops_2016
+
+added:
+
+server settings:
+"ttt_limit_spectator_chat" "1"
+"ttt_lastwords_chatprint" "1"
+
+information:
