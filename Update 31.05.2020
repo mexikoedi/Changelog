@@ -1,0 +1,13 @@
+#Changelog 11.3 from 31.05.2020#
+
+removed:
+
+added:
+
+server settings:
+"ttt2_random_shops" "10"
+"pam_max_maps" "10"
+"pam_map_cooldown" "6"
+
+information:
+gameplay balancing
