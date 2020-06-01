@@ -1,12 +1,15 @@
 #Changelog 11.4 from 01.06.2020#
 
 removed:
+ttt door buster
 
 added:
 [ttt2] priest [role]
 [ttt2] unknown [role]
 
 server settings:
+"ttt2_doors_descrutible" set to 1
+"ttt2_dna_radar" set to 1
 ttt poison dart gun - .limited
 [ttt2/ttt] manipulation knife -removed .norandom
 ttt handcuffs - .globallimited
@@ -18,6 +21,7 @@ ttt random tester - .credits 2
 [ttt/2] orbital friendship beam - .globallimited
 
 information:
+new, big ttt2 update installed and tested, new functions, fixes and some new items in the shop and more...
 small update to the welcome screen
 removed two unecessary adverts
 new roles were added and set up for testing purposes
