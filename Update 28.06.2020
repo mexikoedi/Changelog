@@ -1,0 +1,80 @@
+#Changelog 11.7 from 28.06.2020#
+
+removed:
+[ttt2] unknown [role]
+ttt_castle_black_v5
+ttt_clue_se
+ttt advanced disguiser
+[ttt/2] a second chance
+momo's prop protection
+
+added:
+ttt - binoculars model
+alt + tab labels
+spraymon
+[ttt2] statistics-addon
+[ttt2] identity disguiser [weapon]
+[ttt2] a second chance [rework]
+[ttt2] octagonal hud [theme]
+ttt2 martyrdom [updated]
+[ttt] advanced magneto stick
+[ttt2] minifier [item]
+[ttt2/ttt] demonic possession (passive)
+ttt magnum random spawn
+ttt_bb_schooldayv3_r3
+winter - deathmatch, ttt
+ttt_cluedo_b5_improved1
+ttt_hochhaus_fix
+ttt_clue_2018
+ttt_castle_black_fix (v6)
+ttt_cinema
+ttt_sunday_street_b2
+ttt_trainstation_a5
+ttt_4Biomes
+
+server settings:
+binoculars - .credits 0
+ttt taser - .limited, .teamlimited, .globallimited
+added "game_focus_esc" "1"
+added "game_focus_msg" "I have minimized the game and/or am in the ESC Menu! #Noob"
+added "spraymon_nooverspraying" "1"
+set "ttt_detective_karma_min" "1000"
+set "ttt_karma_max" "1250"
+set "ttt_karma_kill_penalty" "150"
+set "ttt_karma_round_increment" "0"
+set "ttt_karma_traitorkill_bonus" "100"
+removed "ttt_unknown_traitor_button" "0"
+removed	"ttt_unk_credits_starting" "0"
+removed	"ttt_unk_credits_traitorkill" "0"
+removed	"ttt_unk_credits_traitordead" "0"
+removed	"ttt_unk_shop_fallback"	"DISABLED"
+removed "ttt_unknown_enabled" "1"
+removed	"ttt_unknown_pct" "100"
+removed	"ttt_unknown_max" "1"
+removed	"ttt_unknown_random" "50"
+removed	"ttt_unknown_min_players" "6"
+removed "ttt_unknown_respawn_time" "3"
+removed "ttt_secondchance_det" "1"
+removed	"ttt_secondchance_tr" "1"
+removed "mpp_nopropkill" "1"
+removed	"mpp_nocarkill"	"1"
+removed	"mpp_outofworld" "0"
+removed	"mpp_ignoremove" "0"
+removed "ttt_defib_maxdist" "64"
+removed	"ttt_defib_chargetime" "3"
+removed	"ttt_defib_allowmutate"	"1"
+removed	"ttt_defib_mutatemaxscale" "2"
+removed	"ttt_defib_spawnhealth" "100"
+
+information:
+very big server update 
+updated to newest garry's mod and ttt2 version
+updated all my addons (fixes, improvements,...)
+added many new addons(weapons/items/maps...) and also added fixed/updated/improved versions
+statistics are now available
+new magneto stick with many new features
+new hud available in f1 settings
+gameplay balacing
+prop damage is now active again
+karma is now more aggressive
+new start map is now ttt_waterworld_remastered_2020
