@@ -1,0 +1,27 @@
+#Changelog 11.9 from 08.07.2020#
+
+removed:
+[ttt2] mine turtle (proximity mine)
+[ttt2] m4 slam (tripmine + remote c4)
+[ttt/2/t] golden deagle [weapon]
+ttt jihad bomb
+
+added:
+[ttt/2|sandbox] mine turtle (proximity mine)
+[ttt/2] m4 slam (tripmine + remote c4)
+[ttt/2|sandbox] golden deagle v2
+[ttt/2] jihad bomb (charred corpse)
+[ttt2] coffee cup hunt [feature]
+[ttt2] juggernaut suit (passive perk)
+[ttt2] golden bullet (passive perk)
+[ttt/ttt2] paper plane
+[ttt/2|sandbox] dragon elites
+ttt dual berettas
+holy hand greande + ttt
+
+server settings:
+set "ttt2_tbutton_admin_show" "1"
+
+information:
+added many fixed/updated/improved addon vesions, removed the old ones and added some new addons
+updated my addons (fixed, improvements, ...)
