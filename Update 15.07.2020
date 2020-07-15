@@ -1,0 +1,19 @@
+#Changelog 12.1 from 15.07.2020#
+
+removed:
+[ttt2/ttt] demonic possession (passive)
+
+added:
+
+server settings:
+[ttt] thomas the tank engine remake - .globallimited
+removed "ttt_demonic_possession_detective" "1"
+removed	"ttt_demonic_possession_traitor" "1"
+removed	"ttt_demonic_power_max" "400"
+removed	"ttt_demonic_power_regen" "10"
+removed	"ttt_demonic_power_req_attack" "50"
+removed	"ttt_demonic_power_req_wepswitch" "50"
+removed	"ttt_demonic_power_req_move" "20"
+
+information:
+boom body/fake body revival bug (necromancer defi and traitor/detective defi) is under investigation
