@@ -1,0 +1,22 @@
+#Changelog 12.2 from 24.07.2020#
+
+removed:
+
+added:
+
+server settings:
+
+information:
+updated the code, workshop/ingame icons and descriptions/name for my all my addons, also uploaded all addons to github
+cleaned the server cache and other things to force the server to redownload everything - small performance improvement and maybe some weird things are now fixed
+performance benchmark results: 
+
+"benchmark"
+{
+	"framerate"		"127.640579"
+	"build"		"7891"
+}
+
+Over 50% performance improvements to the last test that was taken in march. - Reached because of the many improvements that were made until now.
+The "framerate" is the server framerate and not your client framerate! 
+(If you get lags then it's because of your client framerate or because of an network lag from you and/or the server, a server lag should not happen, even if one happens it should be a minimal and short lag.)
