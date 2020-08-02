@@ -34,7 +34,7 @@ ttt_4Biomes
 
 server settings:
 binoculars - .credits 0
-ttt taser - .limited, .teamlimited, .globallimited
+ttt taser - .limited, .teamlimited, .globallimited, .credits 2
 added "game_focus_esc" "1"
 added "game_focus_msg" "I have minimized the game and/or am in the ESC Menu! #Noob"
 added "spraymon_nooverspraying" "1"
