@@ -1,0 +1,24 @@
+#Changelog 12.3 from 02.08.2020#
+
+removed:
+ttt_hochhaus_fix
+
+added:
+[ttt2] vigilante [role]
+
+server settings:
+set "ttt_vigilante_enabled" "1"
+set "ttt_vigilante_pct" "100"
+set "ttt_vigilante_max" "1"
+set "ttt_vigilante_random" "100"
+set "ttt_vigilante_min_players" "6"
+set "ttt2_vig_armor" "30"
+set "ttt2_vig_msg" "1"
+set "ttt2_vig_enemy_kill_bonus" "0.2"
+set "ttt2_vig_team_kill_penalty" "0.1"
+set "ttt2_vig_max_multiplier" "2.0"
+set "ttt2_vig_min_multiplier" "0.5"
+
+information:
+added and set up vigilante, detective was replaced
+removed rule 11 and 12
