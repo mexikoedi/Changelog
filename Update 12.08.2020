@@ -1,0 +1,11 @@
+#Changelog 12.6 from 12.08.2020#
+
+removed:
+
+added:
+
+server settings:
+
+information:
+set up mysql and is now in use for pointshop
+damagelogs, karma bet and pointshop are now saved via mysql
