@@ -1,0 +1,14 @@
+#Changelog 12.8 from 26.08.2020#
+
+removed:
+
+added:
+leyhitreg
+
+server settings:
+set "net_maxfilesize" "64"
+set "sv_forcepreload" "1"
+
+information:
+better hit regristrations
+improved server performance
