@@ -1,0 +1,96 @@
+#Changelog 13.7 from 18.10.2020#
+
+removed:
+fly by sounds
+
+added:
+
+server settings:
+set "ttt_aspectator_display_role" "0"
+set "ttt_aspectator_display_wallhack_role" "0"
+
+removed unnessary convars from server.vdf:
+
+removed "sv_flybysound_minspeed" "100"
+removed	"sv_flybysound_maxspeed" "1000"
+removed	"sv_flybysound_minshapevolume" "1"
+removed	"sv_flybysound_maxshapevolume" "300"
+removed	"sv_flybysound_minvol" "30"
+removed	"sv_flybysound_playersounds" "0"
+removed "ttt_suicide_counter_sounds" "1"
+removed "spraymon_nooverspraying" "1"
+
+removed unnessary convars from server.cfg:
+
+removed "ttt_preptime_seconds "10"
+removed "ttt_firstpreptime "30"
+removed "ttt_posttime_seconds "10"
+removed "ttt_haste" "1"
+removed "ttt_haste_starting_minutes" 25"
+removed "ttt_haste_minutes_per_death" "0.5"
+removed "ttt_roundtime_minutes" "5"
+removed "ttt_round_limit" "8"
+removed "ttt_time_limit_minutes" "60"
+removed "ttt_traitor_pct" "0.40"
+removed "ttt_traitor_max" "2"
+removed "ttt_detective_pct" "100.00"
+removed "ttt_detective_max" "1"
+removed "ttt_detective_min_players" "6"
+removed "ttt_detective_karma_min" "1000"
+removed "ttt_killer_dna_range" "600"
+removed "ttt_killer_dna_basetime" "100"
+removed "ttt_voice_drain" "0"
+removed "ttt_voice_drain_normal" "0"
+removed "ttt_voice_drain_admin" "0"
+removed "ttt_voice_drain_recharge" "0"
+removed "ttt_minimum_players" "2"
+removed "ttt_postround_dm" "1"
+removed "ttt_weapon_carrying" "1"
+removed "ttt_weapon_carrying_range" "55"
+removed "ttt_ragdoll_pinning" "1"
+removed "ttt_ragdoll_pinning_innocents" "1"
+removed "ttt_karma" "1"
+removed "ttt_karma_strict" "1"
+removed "ttt_karma_starting" "1000"
+removed "ttt_karma_max" "1250"
+removed "ttt_karma_ratio" "0.001"
+removed "ttt_karma_kill_penalty" "150"
+removed "ttt_karma_round_increment" "0"
+removed "ttt_karma_clean_bonus" "100"
+removed "ttt_karma_traitordmg_ratio" "0.0003"
+removed "ttt_karma_traitorkill_bonus" "100"
+removed "ttt_karma_low_autokick" "0"
+removed "ttt_karma_low_amount" "400"
+removed "ttt_karma_low_ban" "0"
+removed "ttt_karma_low_ban_minutes" "300"
+removed "ttt_karma_persist" "0"
+removed "ttt_karma_debugspam" "0"
+removed "ttt_karma_clean_half" "0.25"
+removed "ttt_credits_starting" "2"
+removed "ttt_credits_award_pct" "0.4"
+removed "ttt_credits_award_size" "1"
+removed "ttt_credits_award_repeat" "1"
+removed "ttt_credits_detectivekill" "1"
+removed "ttt_det_credits_starting" "2"
+removed "ttt_det_credits_traitorkill" "0"
+removed "ttt_det_credits_traitordead" "1"
+removed "ttt_spec_prop_control" "1"
+removed "ttt_spec_prop_base" "10"
+removed "ttt_spec_prop_maxpenalty" "-6"
+removed "ttt_spec_prop_maxbonus" "16"
+removed "ttt_spec_prop_force" "150"
+removed "ttt_spec_prop_rechargetime" "0.50"
+removed "ttt_idle_limit" "120"
+removed "ttt_namechange_kick" "0"
+removed "ttt_namechange_bantime" "0"
+removed "ttt_detective_hats" "1"
+removed "ttt_playercolor_mode" "1"
+removed "ttt_ragdoll_collide" "0"
+removed "ttt_bots_are_spectators" "0"
+removed "ttt_debug_preventwin" "0"
+removed "ttt_locational_voice" "0"
+removed "ttt_spawn_wave_interval" "0"
+
+information:
+big clean up of server config files (faster restart/better performance?)
+changed server password
