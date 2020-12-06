@@ -1,0 +1,10 @@
+#Changelog 14.0 from 06.12.2020#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_round_limit" "5"
+
+information:
