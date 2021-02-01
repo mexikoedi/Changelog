@@ -1,0 +1,47 @@
+#Changelog 14.3 from 01.02.2021#
+
+removed:
+luk's ULX Karma Betting for TTT (from all collections removed)
+
+added:
+
+server settings:
+added "ttt_ragdoll_pinning" "1"
+added "ttt_ragdoll_pinning_innocents" "1"
+set "ttt_karma_debugspam" "1"
+
+removed unnessary convars from server.cfg:
+
+removed "karmabet_savemode" "mysql"
+removed "karmabet_language" "english"
+removed "karmabet_reward_type" "1"
+removed "karmabet_min_identified_bodies" "0"
+removed "karmabet_min_karma" "10"
+removed "karmabet_max_karma" "200"
+removed "karmabet_allin_karma" "350"
+removed "karmabet_min_live_karma" "500"
+removed "karmabet_bet_time" "180"
+removed "karmabet_mybets_cooldown" "5"
+removed "karmabet_bestbets_cooldown" "5"
+removed "karmabet_worstbets_cooldown" "5"
+removed "karmabet_debug" "1"
+removed "karmabet_mysql_host" "***"
+removed "karmabet_mysql_dbname" "***"
+removed "karmabet_mysql_username" "***"
+removed "karmabet_mysql_pw" "***"
+removed "karmabet_mysql_port" "***"
+
+removed unnessary convars from server.vdf:
+
+removed "ttt_ragdoll_pinning" "1"
+removed "ttt_ragdoll_pinning_innocents" "1"
+
+information:
+fixed ragdoll pinning
+fixed portal gun addon (errors)
+fixed turret addon (errors and death reason)
+fixed barnacle addon (death reason)
+removed karmabet (and everything related to it)
+removed advert for karmabet
+updated welcome screen
+updated collection (order)
