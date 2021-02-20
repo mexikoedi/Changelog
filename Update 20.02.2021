@@ -1,0 +1,13 @@
+#Changelog 14.7 from 20.02.2021#
+
+removed:
+
+added:
+
+server settings:
+
+information:
+updated to new ttt2 base/coffee cup hunt version to fix issue with coffee cups
+updated spectator deathmatch to fix many issues
+fixed css issues
+deleted cache to clean up a bit
