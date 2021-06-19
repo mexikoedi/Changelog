@@ -1,0 +1,15 @@
+#Changelog 15.6 from 19.06.2021#
+
+removed:
+
+added:
+
+server settings:
+set "ttt2_sprint_stamina_consumption"		"0.300000"
+
+information:
+updated to new ttt2 version with many fixes and improvements
+updated the medic and the spectator deathmatch with many fixes and improvements
+many more small ttt2 addons were updated
+longer sprinting is now possible
+everything tested and working
