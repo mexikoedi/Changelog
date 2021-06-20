@@ -1,0 +1,11 @@
+#Changelog 15.7 from 20.06.2021#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_traitor_pct" "0.35"
+
+information:
+now only 1 traitor at 4/5 players and 2 traitors at 6 players
