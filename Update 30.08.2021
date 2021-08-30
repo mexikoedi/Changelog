@@ -1,0 +1,19 @@
+#Changelog 16.4 from 30.08.2021#
+
+removed:
+
+added:
+
+server settings:
+set "sv_minupdaterate" "66"
+set "sv_maxupdaterate" "66"
+set "sv_mincmdrate" "66"
+set "sv_maxcmdrate" "66"
+removed "gmod_mcore_test" "1"
+removed "mat_queue_mode" "2"
+
+information:
+changed server password
+cleaned server.cfg
+updated network.cfg
+performance and stability improved
