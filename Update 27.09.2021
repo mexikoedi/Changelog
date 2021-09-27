@@ -1,0 +1,24 @@
+#Changelog 16.6 from 27.09.2021#
+
+removed:
+ttt[2] cloaking device (passive)
+
+added:
+
+server settings:
+pew gun [ttt / sandbox] - .teamlimited, .globallimited, .credits 2
+ttt lemonade launcher - .teamlimited, .globallimited, .credits 2
+ttt handcuffs - .teamlimited
+[ttt2/ttt] manipulation knife - .limited
+[ttt/2] barnacle - .limited, .teamlimited
+defuser - .credits 0
+ttt fake tester - .credits 0
+ttt random tester - .credits 1
+ttt lemonade - .teamlimited, .globallimited
+[ttt/2] prop disguiser improved  - .limited
+ttt/ttt2 minethrower - .teamlimited
+
+information:
+cleared sv.db (database)
+gameplay balancing
+backed up server files
