@@ -1,0 +1,11 @@
+#Changelog 16.8 from 10.10.2021#
+
+removed:
+
+added:
+[ttt/2] role defibrillator
+
+server settings:
+set "ttt_rdef_baseRolesOnly" "0"
+
+information:
