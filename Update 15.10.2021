@@ -1,0 +1,31 @@
+#Changelog 16.9 from 15.10.2021#
+
+removed:
+
+added:
+
+server settings:
+ttt taser - .credits 0
+set "ttt_preptime_seconds "20"
+set "ttt_firstpreptime "40"
+set "ttt_posttime_seconds "20"
+set "ttt2_use_custom_models" 1
+set "ttt2_select_model_per_round" 1
+set "ttt_asc_use_kill_history" "1"
+set "ttt_credits_detectivekill" "1"
+set "ttt_det_credits_traitorkill" "1"
+set "ttt_det_credits_traitordead" "1"
+set "ttt_necro_credits_traitorkill" "1"
+set "ttt_necro_credits_traitordead" "1"
+set "ttt_vig_credits_traitorkill" "1"
+set "ttt_vig_credits_traitordead" "1"
+
+information:
+updated to new ttt2 version with many fixes and improvements
+many more small ttt2 addons were updated
+updated some of my addons to fix various things
+gameplay balancing
+role settings balanced
+wrath activated again
+activated random player custom models for each round
+everything tested and working
