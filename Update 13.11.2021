@@ -1,0 +1,18 @@
+#Changelog 17.3 from 13.11.2021#
+
+removed:
+[TTT2] Role Info [International]
+
+added:
+[TTT2] Role Info
+[TTT2] Bodyguard [ROLE]
+
+server settings:
+set "ttt2_med_enabled" to "1"
+set "ttt2_med_win_rqd_revive" to "1"
+
+information:
+the medic can now win if he heals an amount of health, revived a player and is alive at the round end
+added new role info addon for the standard, chaos and classic collection
+added bodyguard role
+everything tested and working
