@@ -1,0 +1,22 @@
+#Changelog 17.7 from 28.11.2021#
+
+removed:
+
+added:
+ttt_island_christmasnight (in winter collection)
+ttt Transfusion Kit
+ttt Dragon Eagle
+ttt M61 Vulcan
+ttt Locomotive 12G
+TTT2 Ceasefire at Roundbegin
+
+server settings:
+
+information:
+added 1 new map
+added 1 detective item, 2 traitor items and 1 spawnable weapon
+added ceasefire for 30 seconds to prevent kills/deaths at round begin
+updated medic to fix various things
+updated to new damagelogs version
+updated to new mysqloo9 version
+everything tested and working
