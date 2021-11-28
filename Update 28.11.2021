@@ -1,0 +1,18 @@
+#Changelog 17.7 from 28.11.2021#
+
+removed:
+
+added:
+ttt Transfusion Kit
+ttt Dragon Eagle
+ttt M61 Vulcan
+ttt Locomotive 12G
+
+server settings:
+
+information:
+added 1 detective item, 2 traitor items and 1 spawnable weapon
+updated medic to fix various things
+updated to new damagelogs version
+updated to new mysqloo9 version
+everything tested and working
