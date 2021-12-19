@@ -1,0 +1,22 @@
+#Changelog 18.3 from 19.12.2021#
+
+removed:
+
+added:
+ttt_islandstreets
+ttt_frozen_prison (Trouble in Terrorist Town)
+ttt_Spooky_v2 (in halloween collection)
+ttt_canyon_a4_winter (in winter collection)
+ttt_minecraftcity_snow (in winter collection)
+ttt_sola_night (in winter collection)
+TTT Christmas Panic Room (in winter collection)
+ttt_terrortown_winter (in winter collection)
+ttt_hairyhouse_winter (in winter collection)
+ttt_winterbetrayal (in winter collection)
+
+server settings:
+
+information:
+added 10 new maps
+updated map icons addon for ttt_canyon_a4_winter, ttt_hairyhouse_winter, ttt_islandstreets, ttt_minecraftcity_snow, ttt_terrortown_winter and ttt_winterbetrayal map thumbnails
+everything tested and working
