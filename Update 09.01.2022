@@ -1,0 +1,22 @@
+#Changelog 18.5 from 09.01.2022#
+
+removed:
+TTT Handcuffs
+PAM Legacy
+
+added:
+[TTT2] Handcuffs Rewritten [WEAPON]
+Partly Adequate Mapvote
+PAM Dark Votescreen
+PAM Random Option
+Partly Adequate Configuration Manager
+Pacoman UI
+
+server settings:
+
+information:
+removed old handcuffs and added new ones
+removed old map vote to replace it with the newer version
+added maps from winter and halloween collection to standard collection
+updated spectator deathmatch to fix various things
+everything tested and working
