@@ -1,0 +1,12 @@
+#Changelog 18.9 from 15.03.2022#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_crowbar_unlocks" "0"
+
+information:
+traitor room doors cannot be opened with a crowbar anymore
+everything tested and working
