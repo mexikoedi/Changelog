@@ -1,0 +1,15 @@
+#Changelog 19.2 from 09.05.2022#
+
+removed:
+
+added:
+Unstuck Command
+
+server settings:
+prop hunt - set "ph_hunter_blindlock_time" "30"
+prop hunt - set "unstuck_cooldown" "60"
+
+information:
+prop hunt - preparing time for props increased
+prop hunt - Unstuck Command helps to get out of props
+everything tested and working
