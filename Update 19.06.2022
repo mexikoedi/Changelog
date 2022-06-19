@@ -1,0 +1,15 @@
+#Changelog 19.3 from 19.06.2022#
+
+removed:
+TTT - Portalgun ( Portal Gun ) - ✯ Updated & Lag Free ✯ Traitor & Detective
+
+added:
+[TTT] Portal Gun for Traitor/Detective
+
+server settings:
+prop hunt - set "lps_enable" "0"
+
+information:
+removed weird end round sound from prop hunt
+removed old portal gun and added new fixed portal gun
+everything tested and working
