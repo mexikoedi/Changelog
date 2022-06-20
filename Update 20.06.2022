@@ -1,0 +1,12 @@
+#Changelog 19.4 from 20.06.2022#
+
+removed:
+
+added:
+PAM Automatic Map Icon Downloader (in ttt2 standard and deathrun collection)
+
+server settings:
+
+information:
+added an addon which downloads missing map icons and shows them in the pam vote
+everything tested and working
