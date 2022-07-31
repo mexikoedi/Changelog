@@ -1,0 +1,12 @@
+#Changelog 19.7 from 31.07.2022#
+
+removed:
+
+added:
+
+server settings:
+
+information:
+fixed weapon textures not loading
+fixed missing weapons (ru 556/ump 45/vector/m3 super/mp9)
+everything tested and working
