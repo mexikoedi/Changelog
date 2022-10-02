@@ -1,0 +1,24 @@
+#Changelog 20.3 from 02.10.2022#
+
+removed:
+
+added:
+Prop Hunt: X Taunt Packs #1 - Classic & Extended (in prophunt collection)
+Prop Hunt: X Taunt Packs #1 - Classic & Extended (in prophunt collection)
+
+server settings:
+prop hunt - set "pcr_use_room_check" "1"
+prop hunt - set "pcr_notify_messages" "1"
+prop hunt - set "mv_timelimit" "30"
+prop hunt - set "mv_maplimit" "30"
+prop hunt - set "ph_use_custom_plmodel_for_prop" "0"
+prop hunt - set "ph_normal_taunt_delay" "3"
+prop hunt - set "ph_prop_camera_collisions" "1"
+prop hunt - set "ph_prop_collision" "1"
+prop hunt - set "ph_falldamage_real" "1"
+prop hunt - set "ph_enable_plnames" "1"
+
+information:
+improved prop hunt settings
+added more taunt sounds for prop hunt
+everything tested and working
