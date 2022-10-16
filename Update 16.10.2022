@@ -1,0 +1,20 @@
+#Changelog 20.4 from 16.10.2022#
+
+removed:
+ph_beachhouse (in prophunt collection)
+
+added:
+Prop Hunt - Wolvin's Villa House (original) (in prophunt collection)
+Prop Hunt: Wolvin's Villa House (ph_villahouse_2017) (in prophunt collection)
+Official Prop Hunt - Wolvin's Bunker 3 (ph_bunkier_v3x) (in prophunt collection)
+Prop Hunt: Wolvin's Office & Parking Lot (ph_parkinglot) (in prophunt collection)
+Prop Hunt: Wolvin's Fancy Sub-Urban House (ph_fancyhouse) (in prophunt collection)
+Prop Hunt: Wolvin's Crash Bandicoot Museum (ph_crashhouse) (in prophunt collection)
+Prop Hunt: Wolvin's Underwater Map "UnderWATAAA" 2020 [ ph_underwataaa_2020 ] (in prophunt collection)
+
+server settings:
+
+information:
+added more maps for prop hunt
+removed broken map for prop hunt
+everything tested and working
