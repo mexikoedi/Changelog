@@ -1,0 +1,19 @@
+#Changelog 21.1 from 17.03.2023#
+
+removed:
+
+added:
+[TTT2] Sheriff & Deputy [ROLE]
+[TTT2] Jackal [ROLE]
+[TTT2] Sidekick [ROLE]
+[TTT2] Infected [ROLE]
+[TTT2] Survivalist [ROLE]
+
+server settings:
+
+information:
+added new roles
+balanced the new roles to work with the other roles
+fixed an issue with vigilante spawn probability
+fixed many wrong role convars
+everything tested and working
