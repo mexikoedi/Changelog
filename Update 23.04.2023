@@ -1,0 +1,13 @@
+#Changelog 21.6 from 23.04.2023#
+
+removed:
+
+added:
+
+server settings:
+
+information:
+updated mysqloo to include some fixes (for databases)
+updated damagelogs to inclue some fixes
+updated gmod version to include some fixes
+everything tested and working
