@@ -1,0 +1,11 @@
+#Changelog 22.1 from 30.07.2023#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_karma" "0"
+
+information:
+deactivated karma for testing purposes
