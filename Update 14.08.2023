@@ -1,0 +1,14 @@
+#Changelog 22.3 from 14.08.2023#
+
+removed:
+
+added:
+
+server settings:
+
+information:
+fixed vigilante/sheriff spawn probability again (now with correct role layers)
+the normal detective should't spawn now
+fixed wrath/survivalist and bodyguard/medic spawn probability (with correct role layers)
+every role should now spawn like it should
+everything tested and working
