@@ -1,0 +1,16 @@
+#Changelog 22.5 from 25.09.2023#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_soda_speedup" "1.50"
+set "ttt2_random_shop_reroll_per_buy" "1"
+[TTT/2] Role Defibrillator - .teamlimited, .globallimited
+
+information:
+speed soda decreased speed from 1.75 (75%) to 1.50 (50%)
+shop now rerolls after every buy
+role defi can now only be used once in a round
+everything tested and working
