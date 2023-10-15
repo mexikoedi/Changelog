@@ -1,0 +1,12 @@
+#Changelog 22.7 from 15.10.2023#
+
+removed:
+
+added:
+
+server settings:
+set "ttt2_random_team_shops" "0"
+
+information:
+everyone has his own shop now (doesn't reroll if a teammate buys something)
+everything tested and working
