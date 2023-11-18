@@ -1,0 +1,36 @@
+#Changelog 23.0 from 18.11.2023#
+
+removed:
+ttt_winterholiday (in winter collection)
+ttt_TwistedDreams_v2.1 (in halloween collection)
+Trinity Church TTT Halloween Map (in halloween collection)
+Terrortrain 2019
+ttt_minecraftcity_v4
+ttt_terrortown
+ttt_4Biomes
+ttt_mcdonalds
+ttt_minecraft_b5
+ttt_metropolis
+TTT_Dolls
+
+added:
+WinterHoliday(TTT) (FIxed map) (in winter collection)
+ttt_TwistedDreams_v3 (in halloween collection)
+Trinity Church TTT Halloween 2020 Map (in halloween collection)
+Terrortrain 2020
+ttt_minecraftcity_v5
+ttt_terrortown_smaller
+ttt_4biomes_remastered
+TTT McDonalds (+nav)
+ttt_minecraft_b7_summer
+ttt_metropolis_v2a
+TTT Dolls Map - TTT Spawns, extra vents [ttt_de_dolls_2008_v3_safe]
+
+server settings:
+
+information:
+moved Winter - Deathmatch, TTT map from standard collecton to winter collection
+fixed ttt_winterholiday map not loading by replacing it with a fixed version
+replaced old maps with newer versions
+updated map icons addon for ttt_winterholiday1, ttt_twisteddreams_v3, ttt_minecraft_b7_summer and ttt_terrortown_smaller map thumbnails
+everything tested and working
