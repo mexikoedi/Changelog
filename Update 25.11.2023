@@ -1,0 +1,30 @@
+#Changelog 23.2 from 25.11.2023#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_ceasefire" "0"
+set "ttt_sheriff_enabled" "0"
+set [TTT/2] Sawgun - notbuyable
+set [TTT] Thomas The Tank Engine REMAKE - notbuyable
+set [TTT2] Dancegun [WEAPON] - notbuyable
+set [TTT/2] Orbital Friendship Beam - notbuyable
+set "ttt_firstpreptime" "60"
+set "ttt_preptime_seconds" "45"
+set "ttt_roundtime_minutes" "10"
+set "ttt_posttime_seconds" "30"
+ 
+information:
+gameplay balancing (test): 
+- deactivated "TTT2 Ceasefire at Roundbegin"
+- deactivated "[TTT2] Sheriff & Deputy [ROLE]" 
+- deactivated some one shot items
+round balancing (test):
+- increased round first preparation
+- increased round preparation
+- increased round time
+- increased round post time
+updated milk gun to increase primary attack sound
+everything tested and working
