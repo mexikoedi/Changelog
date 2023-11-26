@@ -1,0 +1,13 @@
+#Changelog 23.3 from 26.11.2023#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_haste_starting_minutes" "10"
+ 
+information:
+round balancing (test):
+- increased round haste time
+everything tested and working
