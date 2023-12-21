@@ -1,0 +1,40 @@
+#Changelog 23.5 from 21.12.2023#
+
+removed:
+TTT2 Ceasefire at Roundbegin
+[TTT2] Sheriff & Deputy [ROLE]
+[TTT/2] Sawgun
+[TTT2] Dancegun [WEAPON]
+[TTT/2] Orbital Friendship Beam
+[TTT] Thomas The Tank Engine REMAKE
+
+added:
+[TTT2] Thief [ROLE]
+
+server settings:
+set "ttt_firstpreptime" "45"
+set "ttt_preptime_seconds" "30"
+set "ttt_roundtime_minutes" "5"
+set "ttt_haste_starting_minutes" "5"
+set "ttt_posttime_seconds" "15"
+set "ttt2_siki_mode" "2"
+ 
+information:
+new ttt2 update with many fixes and improvements
+many addons were updated to include fixes
+updated damagelogs to include some fixes
+fixed some addons, put them on the server and removed them from the collection
+set up new thief role
+gameplay balancing: 
+- removed "TTT2 Ceasefire at Roundbegin"
+- removed "[TTT2] Sheriff & Deputy [ROLE]" 
+- removed some one shot items
+- nerfed pew gun by reducing rate of fire
+- sidekick doesn't turn to a jackal if the jackal dies
+round balancing:
+- decreased round first preparation
+- decreased round preparation
+- decreased round time
+- decreased round haste time
+- decreased round post time
+everything tested and working
