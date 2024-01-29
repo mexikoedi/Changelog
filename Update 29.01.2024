@@ -1,0 +1,15 @@
+#Changelog 24.0 from 29.01.2024#
+
+removed:
+M9K Rifles+
+M9K Shotguns+
+M9K Pistols+
+
+added:
+
+server settings:
+ 
+information:
+removed unused m9k+ weapon packs
+added ksg weapon to the server
+fixed missing plasma grenade by replacing it with a different version to the server
