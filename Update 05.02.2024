@@ -1,0 +1,14 @@
+#Changelog 24.1 from 05.02.2024#
+
+removed:
+
+added:
+
+server settings:
+ 
+information:
+cleaned cache to free up space and to solve some issues
+fixed debug prints from the combobulator by replacing it with a fixed version to the server
+fixed errors from the boomerang by replacing it with a fixed version to the server
+some addons were updated to include fixes
+everything tested and working
