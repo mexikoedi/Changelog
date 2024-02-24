@@ -1,0 +1,32 @@
+#Changelog 24.3 from 24.02.2024#
+
+removed:
+ttt_broken_hand_fix
+
+added:
+Clientside Hitreg
+[TTT] Graffiti
+CZ75-Auto for TTT
+[TTT2] Spring Mine [WEAPON]
+ttt_kappukeki_streets
+Coder - TTT, Homicide, Murder
+TTT Caribbean
+ttt_mc_christmastown (in winter collection)
+
+server settings:
+set [TTT2] Door Locker [WEAPON] - .credits 0
+set Grenade Launcher - .notbuyable
+ 
+information:
+big update for visuals, sounds and more (new collection: "Enhancement Addons")
+new TTT2 update with many fixes and improvements
+some addons were updated to include fixes
+added Clientside Hitreg to mitigate the issue with "fake hits"
+added a fixed version of [TTT] Graffiti to the server
+removed ttt_broken_hand_fix because this is now included in TTT2
+gameplay balancing: 
+- set the credits needed to buy the [TTT2] Door Locker [WEAPON] to 0 because it isn't used often
+- set Grenade Launcher - .notbuyable because it has no materials and is weak
+restructured collections a bit
+fixed some maps not displaying in the map vote
+everything tested and working
