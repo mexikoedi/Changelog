@@ -1,0 +1,17 @@
+#Changelog 24.4 from 29.02.2024#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_soap_kick_props" "1"
+ 
+information:
+new TTT2 update with some fixes and improvements
+some addons were updated to include fixes
+updated damagelogs to include some fixes
+fixed errors from the ttt_potofgreed by replacing it with a fixed version to the server
+fixed material issues from the holy_hand_greande_ttt
+fixed props not being affected by the soap weapon
+everything tested and working
