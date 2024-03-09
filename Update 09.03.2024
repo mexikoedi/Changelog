@@ -1,0 +1,23 @@
+#Changelog 24.5 from 09.03.2024#
+
+removed:
+ttt - binoculars model
+
+added:
+Buben Voice Chat
+[TTT2/TTT/SB] Supersheep
+[TTT] Russian Roulette (2021)
+Enhanced Blood Splatter System (in Enhancement Addons collection)
+HD Glass Sounds (in Enhancement Addons collection)
+Train004 Rework (in Enhancement Addons collection)
+
+server settings:
+set "sv_voiceenable" "1"
+set "ttt_locational_voice" "1"
+
+information:
+some addons were updated to include fixes
+added and set up 3D Proximity Voice Chat
+small update for visuals and sounds
+removed binoculars model because TTT2 has its own now
+everything tested and working
