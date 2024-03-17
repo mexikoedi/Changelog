@@ -1,0 +1,15 @@
+#Changelog 24.7 from 17.03.2024#
+
+removed:
+ttt_Condemned
+
+added:
+ttt_broken_hand_fix
+
+server settings:
+
+information:
+ttt_broken_hand_fix is still needed to fix broken playermodels
+fixed vss silenced material issues
+fixed errors caused by medic, scar h and homerun bat
+everything tested and working
