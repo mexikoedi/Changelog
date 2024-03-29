@@ -1,0 +1,14 @@
+#Changelog 24.8 from 29.03.2024#
+
+removed:
+
+added:
+[TTT2] Struggle [WEAPON]
+[TTT2] Fake Soda [WEAPON]
+
+server settings:
+set "Buben_Voice_Auto_Enable" "0"
+
+information:
+fixed errors from the [TTT2/TTT/SB] Supersheep by replacing it with a fixed version to the server
+fixed issue with voice chat not working correctly at round begin/end
