@@ -1,0 +1,14 @@
+#Changelog 25.1 from 20.05.2024#
+
+removed:
+[TTT] Graffiti
+ttt_broken_hand_fix
+
+added:
+
+server settings:
+
+information:
+some addons were updated to include fixes
+removed [TTT] Graffiti to fix broken playermodels
+ttt_broken_hand_fix should't be needed anymore
