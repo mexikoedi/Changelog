@@ -1,0 +1,14 @@
+#Changelog 25.2 from 25.05.2024#
+
+removed:
+Explosion Effect (in Enhancement Addons collection)
+
+added:
+Explosion Replacer (in Enhancement Addons collection)
+
+server settings:
+
+information:
+some addons were updated to include fixes
+removed Explosion Effect and added Explosion Replacer instead to fix issues with TNT on MInecraft maps
+everything tested and working
