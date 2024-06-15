@@ -1,0 +1,30 @@
+#Changelog 25.3 from 15.06.2024#
+
+removed:
+TTT_island_2013
+ttt_grovestreet
+TTT_Waterworld_Remastered_2020
+ttt_trappycottage_b2
+ttt_scarisland_b1
+
+added:
+[TTT2] Armony [FEATURE]
+ttt_island_2024
+ttt_grovestreet_extended
+ttt_Waterworld_Tropical
+ttt_trappycottage_b3
+ttt_scarisland_withframes_a4
+ttt_Al'sToyBarn - Toy Story 2
+ttt_Al'sToyBarnXmas
+TTT_Wintermansion_Beta2_Optimized
+ttt_libertycity
+ttt_pizzeria
+
+server settings:
+
+information:
+many addons were updated to include fixes
+replaced old maps with newer versions
+updated map icons addon for ttt_scarisland_withframes_a4 and ttt_trappycottage_b3 map thumbnail
+fixed traitor railgun, to fix errors
+everything tested and working
