@@ -1,0 +1,20 @@
+#Changelog 25.5 from 28.06.2024#
+
+removed:
+[TTT/2] M4 SLAM (Tripmine + Remote C4)
+FY-71 Custom SWEP for TTT
+TTT Manhacks rebalanced
+
+added:
+
+server settings:
+set "sv_allowdownload" "0"
+
+information:
+fastdl is now being used to increase download speed for server addons
+some addons were updated to include fixes
+fixed errors from the [TTT/2] M4 SLAM (Tripmine + Remote C4) by replacing it with a fixed version to the server
+fixed errors from the FY-71 Custom SWEP for TTT by replacing it with a fixed version to the server
+fixed errors from the TTT Manhacks rebalanced by replacing it with a fixed version to the server
+fixed holy hand grenade, to fix material issues
+fixed scar-h, to fix material issues
