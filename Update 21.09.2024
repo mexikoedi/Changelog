@@ -1,0 +1,17 @@
+#Changelog 26.3 from 21.09.2024#
+
+removed:
+Buben Voice Chat
+
+added:
+[TTT2] Button Info [FEATURE]
+
+server settings:
+set "ttt_item_armor_block_headshots" "1"
+set "ttt_item_armor_block_blastdmg" "1"
+
+information:
+new big ttt2 update with many new features and fixes
+many addons were updated to included fixes
+removed Buben Voice Chat because TTT2 now supports proper voice chat functionality
+armor now protects a bit from headshots and explosions
