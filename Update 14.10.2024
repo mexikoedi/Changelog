@@ -1,0 +1,12 @@
+#Changelog 26.5 from 14.10.2024#
+
+removed:
+TTT - Grapplehook (WITH ICON)
+
+added:
+
+server settings:
+
+information:
+fixed errors from the TTT - Grapplehook (WITH ICON) by replacing it with a fixed version to the server
+fixed a fastdl issue which caused missing sounds for the holy hand grenade
