@@ -1,0 +1,11 @@
+#Changelog 26.6 from 02.12.2024#
+
+removed:
+Custom Taunt
+
+added:
+
+server settings:
+
+information:
+fixed errors from the Custom Taunt by replacing it with a fixed version to the server
