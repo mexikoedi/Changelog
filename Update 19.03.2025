@@ -1,0 +1,13 @@
+#Changelog 27.6 from 19.03.2025#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_item_armor_block_clubdmg" "1"
+
+information:
+new ttt2 update with some fixes and improvements
+some addons were updated to include fixes
+armor now protects a bit from crowbar
