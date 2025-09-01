@@ -1,0 +1,18 @@
+#Changelog 28.2 from 01.09.2025#
+
+removed:
+
+added:
+
+server settings:
+set "ttt_karma" "1"
+set "ttt_karma_strict" "0"
+set "ttt_karma_max" "1100"
+set "ttt_karma_ratio" "0.0006"
+set "ttt_karma_kill_penalty" "100"
+set "ttt_karma_traitordmg_ratio" "0.0006"
+
+information:
+new ttt2 update with some fixes and improvements
+some addons were updated to include fixes
+activated karma again, made it less aggressive and more rewarding
