@@ -1,0 +1,11 @@
+#Changelog 28.3 from 14.09.2025#
+
+removed:
+
+added:
+
+server settings:
+
+information:
+fixed an error from the ttt2 m4 slam tripmine remote c4 on the server
+updated the Operator ULX role and added some users to it (for map voting, teleporting, round restarting, reviving)
