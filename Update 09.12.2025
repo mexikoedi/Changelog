@@ -1,0 +1,50 @@
+#Changelog 28.5 from 09.12.2025#
+
+removed:
+TTT Teen Room
+ttt_groverhaus
+ttt_btectest
+ttt_Comancher_Petite
+TTT_Eclipse_v4
+ttt_67thway_rework_b1_w_f
+ttt_clue_2018
+Winter - Deathmatch, TTT
+ttt_snowtown (in winter collection)
+TTT Dual Berettas
+TTT AN94
+TTT A.X.E SMG
+TTT Lemonade + LemonadeLauncher
+ttt2 snuggle struggle
+
+added:
+ttt_teenroom_2025_los
+[TTT] Groverhaus Remastered
+ttt_btec_reloaded
+ttt_comancher_ultra_a1
+ttt_eclipse_v4 no lightswitch better d room
+67th Way | 2022
+Clue 2022
+[TTT] Countdown
+ttt_dworzecglowny
+ttt_fernwood
+ttt_Mineralna3_rats | TTT | TIGER BONZO & KOBRA
+TTT_Die_Villa
+[TTT] GSF Assault
+ttt_67thway_christmas_v1 (in winter collection)
+[TTT] Zap Grenade
+[TTT] Duct Tape
+Confuser - TTT Weapon
+TTT[2] Beartrap [Updated]
+
+server settings:
+set "ttt_karma_ratio" "0.000750"
+set "ttt_karma_traitordmg_ratio" "0.000750"
+
+information:
+replaced old maps with newer versions
+removed Winter - Deathmatch, TTT from standard collection (already in winter collection) and ttt_snowtown from winter collection (doesn't exist anymore)
+added a couple of new maps, some new items and a new grenade
+updated map icons addon for ttt_groverhaus_remastered_a3b, ttt_comancher_ultra_a1 and ttt_eclipse_v4_hotfix map thumbnail
+removed some weapons which weren't so good so that better weapons are easier to find
+removed two items (one of them consisted of two weapons) which were one shot weapons to reduce the amount of such weapons
+increased karma penalty a bit
