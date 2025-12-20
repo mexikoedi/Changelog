@@ -1,0 +1,27 @@
+#Changelog 28.7 from 20.12.2025#
+
+removed:
+Coder - TTT, Homicide, Murder
+TTT WEAPON RPG-7
+[TTT/2|Sandbox] Gauss Rifle
+[TTT2] Prop Rain
+TTT - Blue Firework
+TTT[2] Beartrap [Updated]
+ttt boomerang
+ttt explosive crossbow
+ttt traitor railgun
+
+added:
+[TTT2] Deployable Armor Bag
+[TTT2/SB] Enlarger
+
+server settings:
+set "ttt_milkgun_ammo" "2"
+set "ttt_milkgun_clipSize" "2"
+set [TTT/2] Homing Pigeon - .credits 2
+
+information:
+removed more one shot items to reduce the amount of such weapons
+gameplay balancing:
+- reduced ammo in milk gun to make it more balanced
+- set credits for [TTT/2] Homing Pigeon to 2 because it's very strong
