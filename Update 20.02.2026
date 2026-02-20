@@ -1,0 +1,23 @@
+#Changelog 29.0 from 20.02.2026#
+
+removed:
+[TTT2] Thief [ROLE]
+
+added:
+[TTT2] Jester [ROLE]
+[TTT/2] Detective Damage Tracker
+
+server settings:
+set "ttt_spec_prop_force" "125.000000"
+set "ttt_spec_prop_rechargetime" "0.750000"
+set "ttt_jester_enabled" "1"
+set "ttt_jester_pct" "1"
+set "ttt_jester_random"	"50"
+set "ttt2_jes_ignitedmg" "0"
+set "ttt2_jes_explosiondmg" "0"
+set "ttt2_jes_exppose_to_all_evils" "1"
+set "ttt2_ragdoll_pinning_jester" "1"
+
+information:
+made prop possession a bit weaker
+replaced Thief role with Jester role and set it up
