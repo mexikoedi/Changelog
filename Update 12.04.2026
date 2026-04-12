@@ -1,0 +1,12 @@
+#Changelog 29.4 from 12.04.2026#
+
+removed:
+
+added:
+
+server settings:
+set "ttt2_karma_health_scaling" "1"
+
+information:
+new ttt2 update with some fixes and improvements
+karma health scaling is now enabled
