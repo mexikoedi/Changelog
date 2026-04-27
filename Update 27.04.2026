@@ -1,0 +1,45 @@
+#Changelog 29.5 from 27.04.2026#
+
+removed:
+
+added:
+[TTT2] Totem
+TTTC (Base) - Classes for TTT2
+[TTTC] Heroes Pack
+[TTTC] Shooter
+GMN TTT Snowball
+[TTT2] Silentstep
+[TTT2] Infini Shoot [ITEM]
+[TTT2] BlockDamage [ITEM]
+[TTT2] Glider [ITEM]
+[TTT2] ReflectDamage / Damage Mirror [ITEM]
+[TTT2] ShootingSpeed [ITEM]
+[TTT2] Climb [ITEM]
+[TTT2] Tracker [ITEM]
+[TTT2] Bulldozer [WEAPON]
+
+server settings:
+set "ttt_totemhunter_pct" "1"
+set "ttt_thunt_credits_starting" "1"
+set GMN TTT Snowball - .teamlimited, .globallimited
+set [TTT2] Infini Shoot [ITEM] - .notbuyable
+set [TTT2] BlockDamage [ITEM] - .notbuyable
+set [TTT2] Glider [ITEM] - .notbuyable
+set [TTT2] ReflectDamage / Damage Mirror [ITEM] - .notbuyable
+set [TTT2] ShootingSpeed [ITEM] - .notbuyable
+set [TTT2] Climb [ITEM] - .notbuyable
+set [TTT2] Tracker [ITEM] - .notbuyable
+set [TTT2] Bulldozer [WEAPON] - .notbuyable
+
+information:
+added Totem, Classes and some new items
+gameplay balancing: 
+- set GMN TTT Snowball to .teamlimited and .globallimited because it's strong
+- set [TTT2] Infini Shoot [ITEM] - .notbuyable because it is only for the Classes
+- set [TTT2] BlockDamage [ITEM] - .notbuyable because it is only for the Classes
+- set [TTT2] Glider [ITEM] - .notbuyable because it is only for the Classes
+- set [TTT2] ReflectDamage / Damage Mirror [ITEM] - .notbuyable because it is only for the Classes
+- set [TTT2] ShootingSpeed [ITEM] - .notbuyable because it is only for the Classes
+- set [TTT2] Climb [ITEM] - .notbuyable because it is only for the Classes
+- set [TTT2] Tracker [ITEM] - .notbuyable because it is only for the Classes
+- set [TTT2] Bulldozer [WEAPON] - .notbuyable because it is only for the Classes
