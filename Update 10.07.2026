@@ -1,0 +1,21 @@
+#Changelog 29.7 from 10.07.2026#
+
+removed:
+[TTTC] Shooter
+[TTT2] Infini Shoot [ITEM]
+
+added:
+
+server settings:
+set "ttt_inno_shop_fallback" "innocent"
+set "ttt_wra_shop_fallback" "wrath"
+set "ttt_tra_shop_fallback" "trapper"
+set "ttt_med_shop_fallback" "medic"
+set "ttt_bodygrd_shop_fallback"	"bodyguard"
+set "ttt_jes_shop_fallback" "jester"
+
+information:
+removed Shooter class because it was too strong
+enabled shop for roles without starting credits so:
+- there is a bit more to do for them
+- detecting an evil role by letting them confirm a body is not possible anymore
