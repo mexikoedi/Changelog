@@ -1,0 +1,25 @@
+#Changelog 29.9 from 22.08.2026#
+
+removed:
+[TTT] Duct Tape
+
+added:
+Denizen (Sandbox + TTT)
+ttt_severed
+ttt_interrogation
+ttt_sewer_below
+ttt_quarry
+
+server settings:
+set "ttt_zapgren_shock_damage" "1"
+set "ttt_zapgren_destroy_traps" "0"
+set "ttt_zapgren_destroy_c4" "0"
+set "ttt_zapgren_destroy_explosive_props" "0"
+set "ttt_zapgren_destroy_npcs" "0"
+set "ttt_zapgren_destroy_supercop" "0"
+
+information:
+some addons were updated to include fixes
+added some new maps
+configured the zap grenade after it's update
+changed server password
